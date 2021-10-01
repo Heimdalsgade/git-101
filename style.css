@@ -1,9 +1,12 @@
-body {font-family: helvetica; margin: 1;}
+body {font-family: helvetica; margin: 1; background: black;}
 
 .container {display: flex;align-items: center;align-content: center; height: 100vh;justify-content: center;
 flex-direction: column;
  }
 
- h1 {font-weight: 100;}
+ h1 {font-weight: 100; color: whitesmoke;}
+
+ p {color: grey;}
 
  #logo {height: 80px; width: 80px;}
+
